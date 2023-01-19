@@ -1,6 +1,6 @@
 
 /* Your CSS Code here. */
-.container{
+.holder{
 	background-color:lightblue;
  	display:flex; 
 	flex-direction:row; 
